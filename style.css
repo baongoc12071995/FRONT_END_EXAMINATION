@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+
+h2 {
+	text-decoration: underline;
+	text-decoration-color: orange; 
+	text-underline-position: under;
+	padding-bottom: 20px;
+}
+
+.thumbnail img {
+	width: 200px;
+	height: 400px;
+	box-sizing: content-box;
+}
+
+.caption {
+	margin-top: 10px;
+}
+
+.caption img {
+	width: 20px;
+	height: 20px;
+}
+
+.caption p {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.caption span {
+	vertical-align: baseline;
+}
